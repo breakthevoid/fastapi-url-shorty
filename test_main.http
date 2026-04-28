@@ -1,0 +1,11 @@
+# Тестирование эндпоинтов FastAPI
+
+GET http://127.0.0.1:8000/links/
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/696ACY
+Accept: application/json
+
+###
